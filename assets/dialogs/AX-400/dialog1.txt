@@ -1,0 +1,11 @@
+Bip... Bip... Bip...
+Scan de l'identité en cours...
+Analyse terminée.
+Bonjour Mèly, je suis AX-400. Un robot d'assistance créé par Ampoule.
+Êtes-vous à la recherche d'Alice ?
+Je l'ai vu passer il y a quelques jours de cela.
+Elle est passé par le pont puis elle est rentré dans la grotte
+D'ailleurs, tu savais que tu pouvais bouger avec (Q) et (D) ?
+Tu peux aussi sauter avec (ESPACE) pour avancer sur les différents obstacles que tu rencontreras
+Vous croiserez d'autres robots de la série AX-xxx pendant votre aventure =)
+Bonne chance Mèly !
